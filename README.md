@@ -1,8 +1,8 @@
 ***프로젝트 목적 : OSU / 리듬히어로 같은 닌텐도로 하던 추억의 리듬게임을 모바일에서 구현한 리듬게임***
-
+<br/>
 
 ![osu3](https://github.com/lovecandy010/rhythm_game/assets/95009128/6e6b7026-dcd2-4b08-92b6-07fc080af15f)
-
+<br/>
 
 **목적 달성을 위한 프로세스 요약**
 
@@ -21,9 +21,9 @@
 - Flame 엔진 사용
 
 
-
+<br/>
 ![osu2](https://github.com/lovecandy010/rhythm_game/assets/95009128/d38a59bf-d7c1-487d-8823-16fa03d6d0b8)
-
+<br/>
 - 개선 사항
     - 만들어진 파일의 용량이 커서 android studio를 통해 켜는데 오래걸림
     - 기존의 리듬게임과의 유사함
