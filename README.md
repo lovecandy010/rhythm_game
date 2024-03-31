@@ -22,7 +22,9 @@
 
 
 <br/>
+
 ![osu2](https://github.com/lovecandy010/rhythm_game/assets/95009128/d38a59bf-d7c1-487d-8823-16fa03d6d0b8)
+
 <br/>
 - 개선 사항
     - 만들어진 파일의 용량이 커서 android studio를 통해 켜는데 오래걸림
