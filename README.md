@@ -1,6 +1,8 @@
 ***프로젝트 목적 : OSU / 리듬히어로 같은 닌텐도로 하던 추억의 리듬게임을 모바일에서 구현한 리듬게임***
 
-![osu3](https://github.com/lovecandy010/rhythm_game/assets/95009128/fa026fdf-7fc1-4dc0-9bdb-b68484064946)
+
+![osu3](https://github.com/lovecandy010/rhythm_game/assets/95009128/6e6b7026-dcd2-4b08-92b6-07fc080af15f)
+
 
 **목적 달성을 위한 프로세스 요약**
 
