@@ -1,17 +1,16 @@
-# untitled_rhythm_game
+프로젝트 목적 : OSU / 리듬히어로 같은 추억의 리듬게임을 활용한 모바일 리듬게임 구현
 
-An experiment with Flame.
+**목적 달성을 위한 프로세스 요약**
 
-## Getting Started
+1. SoftWare를 기획한다
+    1. 필요 기능 기획
+    2. 현실적으로 구현이 가능한가
+2. 일정을 고려한 후, 필요 기능대로 개발한다
 
-This project is a starting point for a Flutter application.
+구성 인원
+1인(본인)
 
-A few resources to get you started if this is your first Flutter project:
+나의 역할: 전체 개발 기여도 100%
+- Flutter / Dart 활용
+- Flame 엔진 사용
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# UntitledRhythmGame" 
